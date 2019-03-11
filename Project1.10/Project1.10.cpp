@@ -8,6 +8,10 @@ int main()
     std::cout << "Your integer doubled is: " << usrNum * 2; //outputs the usrNum variable doubled.
 
 	//added note to test GitHub.
+
+	//added note to branch.1
+
+	//added note to branch.1(2)
 	   
 	return 0;
 }
